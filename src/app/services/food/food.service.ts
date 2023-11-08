@@ -73,7 +73,7 @@ export class FoodService {
         favorite: false,
         origins: ['germany', 'us'],
         stars: 3.5,
-        imageUrl: '/assets/images/food-3.jpg',
+        imageUrl: './assets/images/food-3.jpg',
         tags: ['FastFood', 'Hamburger'],
       },
       {
@@ -84,7 +84,7 @@ export class FoodService {
         favorite: true,
         origins: ['belgium', 'france'],
         stars: 3.3,
-        imageUrl: '/assets/images/food-4.jpg',
+        imageUrl: './assets/images/food-4.jpg',
         tags: ['FastFood', 'Fry'],
       },
       {
